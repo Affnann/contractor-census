@@ -1,8 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this data or code, please cite it as below."
-title: "contractor-census"
+title: "contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025"
 authors:
   - family-names: "Azom"
     given-names: "Kazi Affnann"
+date-released: "2026-10-28"
+version: "1.0.0"
 repository-code: "https://github.com/Affnann/contractor-census"
 license: MIT
+keywords:
+  - defense contractors
+  - private military and security companies
+  - USCENTCOM
+  - Iraq
+  - Afghanistan
