@@ -1,0 +1,13 @@
+{
+  "title": "contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025",
+  "upload_type": "dataset",
+  "description": "<p>A cleaned, checked archive of the U.S. Department of Defense's 68 quarterly contractor census reports for the U.S. Central Command (USCENTCOM) area, from the 3rd quarter of fiscal year 2008 to the 2nd quarter of fiscal year 2025 (the final report). For each report and area (Afghanistan, Iraq, Iraq and Syria, other USCENTCOM locations, and the USCENTCOM total) it gives the number of contractor personnel, split into U.S. citizens, third-country nationals and local nationals. Numbers are kept exactly as printed; printing errors in three of the original reports are flagged. Includes the original PDFs, the extraction and checking code, and documentation.</p><p>Dataset: CC BY 4.0. Code: MIT. The original reports are U.S. government works.</p>",
+  "creators": [
+    {"name": "Azom, Kazi Affnann"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["defense contractors", "private military and security companies", "USCENTCOM", "Iraq", "Afghanistan", "third-country nationals"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/Affnann/contractor-census", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
