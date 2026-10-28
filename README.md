@@ -1,5 +1,7 @@
 # contractor-census
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23736050.svg)](https://doi.org/10.5281/zenodo.23736050)
+
 A cleaned, checked archive of the U.S. Department of Defense's quarterly contractor census for the U.S. Central Command (USCENTCOM) area: how many contractor personnel worked for the DoD in Iraq, Afghanistan, Syria and the rest of the region, and whether they were U.S. citizens, third-country nationals or local nationals.
 
 The Pentagon published these reports every quarter from 2008 to 2025. The April 2025 report states that it is the final one, so this archive is complete: **68 reports, from the 3rd quarter of fiscal year 2008 to the 2nd quarter of fiscal year 2025.**
@@ -81,4 +83,9 @@ Sources and download details are in [`data/README.md`](data/README.md). Code: MI
 
 ## Cite
 
-See [`CITATION.cff`](CITATION.cff).
+Azom, Kazi Affnann (2026). *contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23736051
+
+- This version (v1.0.0): [10.5281/zenodo.23736051](https://doi.org/10.5281/zenodo.23736051)
+- All versions (always points to the latest): [10.5281/zenodo.23736050](https://doi.org/10.5281/zenodo.23736050)
+
+See also [`CITATION.cff`](CITATION.cff).

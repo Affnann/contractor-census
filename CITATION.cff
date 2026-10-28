@@ -4,8 +4,14 @@ title: "contractor-census: U.S. DoD quarterly contractor census for the USCENTCO
 authors:
   - family-names: "Azom"
     given-names: "Kazi Affnann"
+    orcid: "https://orcid.org/0009-0001-5998-7642"
 date-released: "2026-10-28"
 version: "1.0.0"
+doi: "10.5281/zenodo.23736051"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23736050"
+    description: "Concept DOI for all versions"
 repository-code: "https://github.com/Affnann/contractor-census"
 license: MIT
 keywords:
