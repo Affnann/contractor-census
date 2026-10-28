@@ -6,6 +6,12 @@ A cleaned, checked archive of the U.S. Department of Defense's quarterly contrac
 
 The Pentagon published these reports every quarter from 2008 to 2025. The April 2025 report states that it is the final one, so this archive is complete: **68 reports, from the 3rd quarter of fiscal year 2008 to the 2nd quarter of fiscal year 2025.**
 
+## What this is and why it matters
+
+When the U.S. military operates abroad, much of the work behind it is done by private companies: cooking, driving, building, maintenance and security. For 17 years the Pentagon counted these workers every three months and recorded whether they were Americans, local nationals, or workers brought in from other countries. At the peak, in 2008, there were about 266,700 of them; by 2025 there were about 20,400.
+
+The Pentagon has stopped publishing the count, and the reports existed only as 68 separate PDF files. This repository puts the full series into one checked table, and flags three reports whose printed numbers do not add up. It can be used to compare the use of contractors with troop levels over time, to follow how many workers came from third countries, to check official statements about the size of the U.S. presence, and as a permanent, citable record of a series that no longer exists.
+
 ![Contractor personnel by nationality group](figures/contractors_by_nationality.png)
 
 ## The data
