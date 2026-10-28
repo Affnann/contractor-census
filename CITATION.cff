@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "contractor-census"
+authors:
+  - family-names: "Azom"
+    given-names: "Kazi Affnann"
+repository-code: "https://github.com/Affnann/contractor-census"
+license: MIT
