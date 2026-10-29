@@ -91,7 +91,7 @@ Sources and download details are in [`data/README.md`](data/README.md). Code: MI
 
 ## Cite
 
-Azom, Kazi Affnann (2026). *contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23736051
+Azom, Kazi Affnann (2026). *contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025* (Version v1.0.0) [Data set]. Mercenomics. https://doi.org/10.5281/zenodo.23736051
 
 - This version (v1.0.0): [10.5281/zenodo.23736051](https://doi.org/10.5281/zenodo.23736051)
 - All versions (always points to the latest): [10.5281/zenodo.23736050](https://doi.org/10.5281/zenodo.23736050)
