@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23736050.svg)](https://doi.org/10.5281/zenodo.23736050)
 
+Published by [Mercenomics](https://mercenomics.org), an independent data archive on the business of force for hire.
+
 A cleaned, checked archive of the U.S. Department of Defense's quarterly contractor census for the U.S. Central Command (USCENTCOM) area: how many contractor personnel worked for the DoD in Iraq, Afghanistan, Syria and the rest of the region, and whether they were U.S. citizens, third-country nationals or local nationals.
 
 The Pentagon published these reports every quarter from 2008 to 2025. The April 2025 report states that it is the final one, so this archive is complete: **68 reports, from the 3rd quarter of fiscal year 2008 to the 2nd quarter of fiscal year 2025.**

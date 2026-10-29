@@ -5,6 +5,7 @@ authors:
   - family-names: "Azom"
     given-names: "Kazi Affnann"
     orcid: "https://orcid.org/0009-0001-5998-7642"
+    affiliation: "Mercenomics"
 date-released: "2026-10-28"
 version: "1.0.0"
 doi: "10.5281/zenodo.23736051"
