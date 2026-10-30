@@ -89,6 +89,10 @@ python code/03_make_figure.py
 
 Sources and download details are in [`data/README.md`](data/README.md). Code: MIT (see [`LICENSE`](LICENSE)). The clean dataset: CC BY 4.0. The original reports are U.S. government works.
 
+## Used in
+
+Azom, Kazi Affnann (2026). "Who Bears the Risk of Privatized War? Troops, Contractors and Third-Country Nationals." Preprint. Zenodo. https://doi.org/10.5281/zenodo.23788239
+
 ## Cite
 
 Azom, Kazi Affnann (2026). *contractor-census: U.S. DoD quarterly contractor census for the USCENTCOM area, FY2008-FY2025* (Version v1.0.0) [Data set]. Mercenomics. https://doi.org/10.5281/zenodo.23736051
